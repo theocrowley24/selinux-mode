@@ -1,5 +1,9 @@
 
 
+define(`my_macro', `
+    allow test_t init_t:file { read };
+')
+
 # This is a test comment
 allow wibble_t wobble_t:file read;
 
