@@ -1,0 +1,10 @@
+
+
+# This is a test comment
+allow wibble_t wobble_t:file read;
+
+
+## Test
+
+#test
+
